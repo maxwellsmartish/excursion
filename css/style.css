@@ -1,9 +1,11 @@
 html {
-	background-color: black
+	
 	text-align: center;
 }
 body {
 	font-family: Verdana;
+	text-align:center;
+	background-color:black;
 }
 h1 {
 font-weight:normal;
